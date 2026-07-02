@@ -26,7 +26,7 @@ This project covers:
 
 ## 📖 Notes
 
-For the complete notes and walkthrough, see **[Automate Cybersecurity Tasks with Python](automate-cybersecurity-tasks-with-python.md)**.
+For the complete notes and walkthrough, see **[Automate Cybersecurity Tasks with Python](automate_cybersecurity_tasks.md)**
 
 ---
 ##  Topics Covered
