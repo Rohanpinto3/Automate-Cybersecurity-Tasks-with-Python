@@ -9,7 +9,6 @@ A beginner-friendly cybersecurity project that demonstrates how Python can be us
 
 ---
 
-## 📖 Overview
 
 Python is one of the most widely used programming languages in cybersecurity because it allows security professionals to automate repetitive tasks, analyze data, and develop security tools quickly.
 
@@ -22,10 +21,14 @@ This project covers:
 * Basic cybersecurity automation examples
 * Security-focused programming exercises
 
----
+----
 
 
+## 📖 Notes
 
+For the complete notes and walkthrough, see **[Automate Cybersecurity Tasks with Python](automate-cybersecurity-tasks-with-python.md)**.
+
+--
 ##  Topics Covered
 
 ### Python Basics
