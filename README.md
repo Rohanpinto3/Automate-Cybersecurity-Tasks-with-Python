@@ -8,12 +8,13 @@
 A beginner-friendly cybersecurity project that demonstrates how Python can be used to automate common security tasks while teaching core Python programming concepts.
 
 
-
-> This project combines Python fundamentals with real-world cybersecurity examples such as log analysis, login monitoring, risk assessment, and automation.
-
 <p align="center">
   <img src="https://files.catbox.moe/qscyy7.png" alt="Wireshark Network Analysis Lab Banner" width="100%">
 </p>
+
+> This project combines Python fundamentals with real-world cybersecurity examples such as log analysis, login monitoring, risk assessment, and automation.
+
+
 
 ---
 
